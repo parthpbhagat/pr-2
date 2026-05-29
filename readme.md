@@ -12,7 +12,6 @@ An end-to-end Machine Learning regression pipeline implemented in Python via Jup
 5. [Tree-Based Regressors (Part E)](#-tree-based-regressors-part-e)
 6. [Support Vector Regression SVR (Part F)](#-support-vector-regression-svr-part-f)
 7. [Master Model Comparison & Performance Dashboard (Part G)](#-master-model-comparison--performance-dashboard-part-g)
-8. [Setup & Execution Guide](#-setup--execution-guide)
 
 ---
 
