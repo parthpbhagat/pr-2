@@ -136,17 +136,3 @@ After hyperparameter optimization, the performance of each model is tabulated us
 
 ---
 
-## 🛠️ Setup & Execution Guide
-
-### Prerequisite Dependencies
-To run the notebook pipeline, ensure the following Python packages are installed:
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn sweetviz
-```
-
-### Execution
-Open the Jupyter notebook environment and execute all cells sequentially:
-```bash
-jupyter notebook pr2.ipynb
-```
-After executing, the Sweetviz report `SWEETVIZ_REPORT.html` will be generated in the workspace directory.
